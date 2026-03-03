@@ -10,7 +10,7 @@ Mål på sikt:
 - Analysere hvilke personer, organisasjoner og steder som nevnes (NER), og i hvilke kontekster.
 
 Status:
-- [ ] Sette opp grunnleggende prosjektstruktur.
+- [x] Sette opp grunnleggende prosjektstruktur.
 - [ ] Lage enkel baseline for russisk sentimentanalyse på eksisterende datasett.
 - [ ] Samle inn et lite datasett med russiske nyhetstekster.
 - [ ] Annotere et delsett for propaganda / sentiment.
