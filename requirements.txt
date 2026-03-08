@@ -1,0 +1,5 @@
+ipykernel
+datasets
+scikit-learn
+pandas
+numpy
