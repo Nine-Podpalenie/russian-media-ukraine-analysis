@@ -20,3 +20,9 @@ Status:
 Dette prosjektet er faglig/utforskende og ikke ment som et produksjonsklart verktøy
 for å detektere propaganda eller "troll". Etiske og metodiske begrensninger
 diskuteres fortløpende i dokumentasjonen.
+
+
+### Fremdriftsplan:
+
+Sporadisk, da dette er et hobbyprosjekt på fritiden. Fritiden varierer veldig i omfang
+både ukentlig og daglig.
