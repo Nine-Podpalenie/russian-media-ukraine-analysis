@@ -1,0 +1,27 @@
+{
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    // VISUELLE HJELPELINJER
+    "editor.rulers": [
+        80,
+        120
+    ],
+    // AUTOMATISK PARENTES-/BRACKET-FYLL
+    "editor.autoClosingBrackets": "languageDefined",
+    "editor.autoClosingQuotes": "languageDefined",
+    "editor.autoSurround": "languageDefined",
+    // INNRYKK & WHITESPACE
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.trimAutoWhitespace": true,
+    // PYTHON-SPESIFIKT
+    "python.defaultInterpreterPath": "python",
+    "python.analysis.typeCheckingMode": "basic",
+    // FORMATTERING
+    "editor.formatOnSave": true,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.python" // eller "ms-python.black-formatter" hvis du vil bruke Black
+    },
+    // LINTING (ENKEL)
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
+}
